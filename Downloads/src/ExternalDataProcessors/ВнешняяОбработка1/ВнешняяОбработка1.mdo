@@ -25,6 +25,21 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
+  <attributes uuid="1ea6d815-059d-4b7f-a347-160606aa9a4b">
+    <name>КоммитСработай</name>
+    <synonym>
+      <key>ru</key>
+      <value>Коммит сработай</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
   <forms uuid="c10d2cef-b446-4308-82dc-be41768bb213">
     <name>Форма</name>
     <synonym>
